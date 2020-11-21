@@ -37,9 +37,9 @@ class _MyAppState extends State<MyApp> {
       title: 'Delego',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primaryColor: Color(0xff145C9E),
+        primaryColor: Color(120078),
         scaffoldBackgroundColor: Color(0xff1F1F1F),
-        accentColor: Color(0xff007EF4),
+        accentColor: Color(fbf6f0),
         fontFamily: "OverpassRegular",
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
